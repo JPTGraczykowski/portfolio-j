@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.apache.org)",
+      "WebFetch(domain:apache.org)",
+      "WebFetch(domain:infra.apache.org)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(ls:*)"
+    ]
+  }
+}
